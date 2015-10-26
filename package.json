@@ -1,0 +1,53 @@
+{
+  "name": "hubot-naver-dic",
+  "description": "휴봇 네이버 사전 검색",
+  "version": "0.0.4",
+  "author": {
+    "name": "Luis",
+    "email": "road2nowhere@naver.com",
+    "url": "박규철"
+  },
+  "license": "MIT",
+  "keywords": [
+    "dictionary"
+  ],
+  "dependencies": {
+    "coffee-script": "~1.6",
+    "naver-dic-api": "0.0.3"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*",
+    "grunt-mocha-test": "~0.7.0",
+    "grunt-release": "~0.6.0",
+    "matchdep": "~0.1.2",
+    "grunt-contrib-watch": "~0.5.3"
+  },
+  "main": "index.coffee",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "_id": "hubot-naver-dic@0.0.4",
+  "_shasum": "a771925c7698128fa2425c0ebce12448eda3ba16",
+  "_from": "hubot-naver-dic@*",
+  "_npmVersion": "2.13.5",
+  "_nodeVersion": "0.12.0",
+  "_npmUser": {
+    "name": "luispark",
+    "email": "road2nowhere@naver.com"
+  },
+  "dist": {
+    "shasum": "a771925c7698128fa2425c0ebce12448eda3ba16",
+    "tarball": "http://registry.npmjs.org/hubot-naver-dic/-/hubot-naver-dic-0.0.4.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "luispark",
+      "email": "road2nowhere@naver.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/hubot-naver-dic/-/hubot-naver-dic-0.0.4.tgz"
+}
